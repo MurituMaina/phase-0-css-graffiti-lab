@@ -1,7 +1,14 @@
 /* write your override styles here */
 
-#wall>div.tag-1 {
+#wall .tag-1 {
     display: none;
+    /* background-color: red;    */
+    /* background-color: red;    */
+    /* background-color: red;    */
+    /* background-color: red;    */
+    /* background-color: red;    */
+    /* background-color: red;    */
+    /* background-color: red;    */
     /* background-color: red;    */
 }
 
